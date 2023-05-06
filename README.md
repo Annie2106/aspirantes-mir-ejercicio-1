@@ -1,9 +1,3 @@
-Compañeras:
-Nancy Muñoz
-Fátima García
-Daniela Sofia Guerrero
-
-
 vivic@LAPTOP-R6VQSUM8 MINGW64 ~
 $ pwd
 /c/Users/vivic
@@ -35,3 +29,7 @@ $ git init
 
 vivic@LAPTOP-R6VQSUM8 MINGW64 ~/Desktop/ejercicios (master)
 $ git add README.md
+
+vivic@LAPTOP-R6VQSUM8 MINGW64 ~/Desktop/ejercicios (master)
+$ git push origin master
+
